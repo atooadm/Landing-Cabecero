@@ -1,0 +1,25 @@
+Coloca aquí las fotos y los videos. El nombre debe coincidir exactamente
+(minúsculas, sin espacios). GitHub Pages distingue mayúsculas.
+
+Fotos (webp, jpg, jpeg o png — se prueba en ese orden):
+01-tablet-trasera-encendida
+02-patas-deslizables
+03-cojin-delantero
+04-kit-cables-guaya
+05-conexion-bateria
+06-pantalla-apps
+07-control-teclado
+08-tipos-de-vehiculo
+09-pasajero-usando
+10-hero-producto
+
+Videos (mp4 o webm):
+video-instalacion
+video-patas
+video-abrir-app
+
+Ejemplo:
+docs/assets/media/10-hero-producto.jpg
+
+Recarga la página. Si el archivo está, reemplaza el marco gris.
+Si no está, el marco se queda con su etiqueta.
