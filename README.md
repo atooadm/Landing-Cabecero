@@ -32,12 +32,12 @@ Están en `docs/assets/media/`:
 
 | Archivo | Dónde se ve |
 | --- | --- |
-| `04-familia-viaje.jpeg` | Héroe. Papá manejando, niño atrás con control |
-| `02-calidad-comodidad.jpeg` | Cómodo al frente. Cojín con el texto de calidad |
+| `00-hero-Car_seat_headrest_tablet_display_20260921164400.jpeg` | Héroe. Tablet en el carro, con una película |
+| `02-calidad-comodidad.jpeg` | Cómodo al frente. Cojín |
 | `03-ajuste-universal.jpeg` | Cabe en tu carro. Infografía Aprix, 90–185 mm |
-| `05-tablet-juegos-dia.jpeg` | Juegan atrás. Tablet y control, de día |
-| `01-textura-cojin.jpeg` | De cerca. Textura del cojín, sin texto |
-| `06-tablet-juegos-noche.jpeg` | De cerca. Tablet y control, de noche |
+| `01-producto-apps.jpeg` | Apps en la tablet. Producto en estudio |
+| `04-familia-viaje.jpeg` | También. Papá manejando, niño con control |
+| `05-producto-pelicula.jpeg` | También. Producto en estudio, video en la pantalla |
 
 Se pueden sumar más fotos o videos después, en esa misma carpeta, y enlazarlos en `docs/index.html`. La página ya no reserva marcos vacíos.
 

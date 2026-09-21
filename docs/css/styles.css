@@ -189,7 +189,7 @@ p {
   min-height: 220px;
   max-height: 460px;
   object-fit: cover;
-  object-position: center 16%;
+  object-position: center 42%;
 }
 
 .hero__copy {
@@ -430,7 +430,7 @@ figcaption {
     height: 100%;
     max-height: none;
     min-height: calc(100vh - 68px);
-    object-position: center 8%;
+    object-position: center 22%;
   }
 
   .hero__copy {
