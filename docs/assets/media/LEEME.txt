@@ -1,11 +1,10 @@
-Fotos que ya están en la página:
+Fotos de esta versión (las anteriores de juegos en POV ya no van):
 
-01-textura-cojin.jpeg — primer plano del cojín, sin texto
-02-calidad-comodidad.jpeg — cojín con el texto «Excelente calidad y comodidad»
+00-hero-Car_seat_headrest_tablet_display_20260921164400.jpeg — héroe: tablet en el carro, con película
+01-producto-apps.jpeg — producto en estudio, inicio de Android con apps
+02-calidad-comodidad.jpeg — primer plano del cojín
 03-ajuste-universal.jpeg — infografía Aprix, ajuste 90–185 mm
-04-familia-viaje.jpeg — papá manejando y niño con control (héroe)
-05-tablet-juegos-dia.jpeg — tablet y control, de día
-06-tablet-juegos-noche.jpeg — tablet y control, de noche
+04-familia-viaje.jpeg — papá manejando y niño con control (no es el héroe)
+05-producto-pelicula.jpeg — producto en estudio, video en la pantalla
 
-Más adelante se pueden sumar otras fotos o videos en esta carpeta
-y enlazarlos en docs/index.html. No hace falta dejar marcos vacíos.
+Se pueden sumar más archivos en esta carpeta y enlazarlos en docs/index.html.
