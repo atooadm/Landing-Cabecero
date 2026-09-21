@@ -34,10 +34,10 @@ Están en `docs/assets/media/`:
 | --- | --- |
 | `00-hero-Car_seat_headrest_tablet_display_20260921164400.jpeg` | Héroe. Tablet en el carro, con una película |
 | `02-calidad-comodidad.jpeg` | Cómodo al frente. Cojín |
-| `03-ajuste-universal.jpeg` | Cabe en tu carro. Infografía Aprix, 90–185 mm |
-| `01-producto-apps.jpeg` | Apps en la tablet. Producto en estudio |
-| `04-familia-viaje.jpeg` | También. Papá manejando, niño con control |
-| `05-producto-pelicula.jpeg` | También. Producto en estudio, video en la pantalla |
+| `03-ajuste-universal.jpeg` | A la medida del asiento. Infografía Aprix, 90–185 mm |
+| `01-producto-apps.jpeg` | Apps para el viaje. Producto en estudio |
+| `04-familia-viaje.jpeg` | Un viaje más tranquilo. Adulto al volante, niño atrás |
+| `05-producto-pelicula.jpeg` | Para ver en el camino. Producto en estudio, video en la pantalla |
 
 Se pueden sumar más fotos o videos después, en esa misma carpeta, y enlazarlos en `docs/index.html`. La página ya no reserva marcos vacíos.
 
