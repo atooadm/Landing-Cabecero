@@ -1,24 +1,32 @@
 (function () {
   "use strict";
   var sticky = document.querySelector(".wa-sticky");
-  var cta = document.querySelector("#pedir");
+  var targets = [
+    document.querySelector(".hero .btn-wa"),
+    document.querySelector("#pedir")
+  ].filter(Boolean);
   var desktop = window.matchMedia("(min-width: 900px)");
-  var ctaVisible = false;
+  var covering = new Set();
 
   function sync() {
     if (!sticky) return;
-    sticky.hidden = desktop.matches || ctaVisible;
+    sticky.hidden = desktop.matches || covering.size > 0;
   }
 
-  if (sticky && cta && "IntersectionObserver" in window) {
+  if (sticky && targets.length && "IntersectionObserver" in window) {
     var watcher = new IntersectionObserver(
       function (entries) {
-        ctaVisible = entries[0].isIntersecting;
+        entries.forEach(function (entry) {
+          if (entry.isIntersecting) covering.add(entry.target);
+          else covering.delete(entry.target);
+        });
         sync();
       },
-      { threshold: 0.35 }
+      { threshold: 0.4 }
     );
-    watcher.observe(cta);
+    targets.forEach(function (el) {
+      watcher.observe(el);
+    });
   }
 
   if (typeof desktop.addEventListener === "function") {
