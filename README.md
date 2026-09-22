@@ -34,7 +34,7 @@ Están en `docs/assets/media/`:
 | --- | --- |
 | `00-hero-Car_seat_headrest_tablet_display_20260921164400.jpeg` | Héroe. Tablet en el carro, con una película |
 | `02-calidad-comodidad.jpeg` | Calidad y comodidad. Cojín |
-| `03-ajuste-universal.jpeg` | Adaptable a cualquier vehículo. Infografía; 90–185 mm solo como ejemplo del esquema |
+| `03-ajuste-universal.jpeg` | Adaptable a cualquier vehículo. Infografía; ajuste de 12 cm a 19 cm |
 | `01-producto-apps.jpeg` | Tu centro de entretenimiento. Producto en estudio |
 | `04-familia-viaje.jpeg` | Para los pasajeros de atrás |
 | `05-producto-pelicula.jpeg` | Pantalla de 10,1 pulgadas HD. Producto en estudio |
@@ -60,4 +60,4 @@ GitHub la confirma arriba en esa pantalla. La primera vez puede tardar un minuto
 
 - Precio, ciudades de envío o un número de WhatsApp real.
 - Ficha técnica que no esté en las fotos (memoria, procesador, pulgadas).
-- El rango 90–185 mm solo se menciona como lo trae la infografía de Aprix (“anchura ilustrativa”).
+- El ancho de las patas es de 12 cm a 19 cm.
