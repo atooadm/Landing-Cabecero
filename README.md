@@ -3,7 +3,7 @@
 Landing corta, en español (Colombia), de **Santiago Asesor / Smart EV Power**.
 Sitio estático en `docs/`. Sirve en GitHub Pages gratis, sin build.
 
-El producto en las fotos es **Aprix**. El precio no está publicado: se consulta por WhatsApp. No inventes número, precio ni ciudades.
+El producto en las fotos es **Aprix**. El precio publicado es **$279.900** por un cabecero y **$499.900** por el par (los dos). No inventes otros cobros, ciudades ni un número de WhatsApp.
 
 ## Verla en el computador
 
@@ -58,6 +58,6 @@ GitHub la confirma arriba en esa pantalla. La primera vez puede tardar un minuto
 
 ## Qué no incluye
 
-- Precio, ciudades de envío o un número de WhatsApp real.
+- Ciudades de envío, otros cobros o un número de WhatsApp real. El precio del producto sí está: $279.900 y $499.900 el par.
 - Ficha técnica que no esté en las fotos (memoria, procesador, pulgadas).
 - El ancho de las patas es de 12 cm a 19 cm.
